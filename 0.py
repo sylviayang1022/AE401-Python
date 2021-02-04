@@ -1,0 +1,16 @@
+print("hello")
+print(6+6)
+print(6.55)
+print(-35)
+print(type(123456789))
+print(type(6.23))
+print(type("hello"))
+print("hello","I'm","sylvia")
+name=input("name?")
+print(name)
+r=input("請使用者輸入半徑")
+r=float(r)
+Area=r**2*3.14159
+I=2*r*3.14159
+print("圓周長",I)
+print("圓面積",Area)
